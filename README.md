@@ -112,9 +112,3 @@ This forms the foundational understanding required for more advanced topics like
 
 ---
 
-
-## References
-
-- Cisco Networking Academy – *Introduction to Networks (ITN)* — [netacad.com](https://www.netacad.com)
-- Cisco IOS Command Reference — [cisco.com](https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-4m-t/products-command-reference-list.html)
-- GeeksforGeeks – *Computer Networks* — [geeksforgeeks.org](https://www.geeksforgeeks.org/computer-network-tutorials/)
